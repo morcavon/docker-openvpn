@@ -1,7 +1,8 @@
 # Original credit: https://github.com/jpetazzo/dockvpn
 
 # Leaner build then Ubunutu
-FROM debian:jessie
+#FROM debian:jessie
+FROM resin/rpi-raspbian
 
 MAINTAINER Kyle Manna <kyle@kylemanna.com>
 
